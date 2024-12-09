@@ -1,3 +1,4 @@
+<div align="center">
 👾 **MERN Developer by Day | Graphic Designer by Night**  
 💻 Writing code that (mostly) behaves.  
 🎨 Crafting visuals that flirt with pixel perfection.  
@@ -34,5 +35,5 @@ An infinite supply of caffeine and *Ctrl+Z.*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ahmed-baya-652b67247/))
 
 ---
-
+</div>
 
