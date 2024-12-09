@@ -1,7 +1,7 @@
 <div align="center">
-👾 **MERN Developer by Day | Graphic Designer by Night**  
-💻 Writing code that (mostly) behaves.  
-🎨 Crafting visuals that flirt with pixel perfection.  
+👾 **MERN Developer by Day | Graphic Designer by Night**  <br>
+💻 Writing code that (mostly) behaves.  <br>
+🎨 Crafting visuals that flirt with pixel perfection. <br> 
 
 ---
 
