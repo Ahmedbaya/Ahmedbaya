@@ -34,8 +34,8 @@ An infinite supply of caffeine and *Ctrl+Z.*
 ---
 
 ### 🌟 **Connect with Me**
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://yourportfolio.com](https://www.behance.net/ahmedbaya12))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ahmed-baya-652b67247/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]([https://www.behance.net/ahmedbaya12](https://www.behance.net/ahmedbaya12))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ahmed-baya-652b67247/](https://www.linkedin.com/in/ahmed-baya-652b67247/))
 
 ---
 </div>
