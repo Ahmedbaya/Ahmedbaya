@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="BAYA — thoughtful web and desktop applications">
+  <title>BAYA — thoughtful web and desktop applications</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071521"/><stop offset=".58" stop-color="#0b2635"/><stop offset="1" stop-color="#12434a"/></linearGradient>
+    <linearGradient id="ink"><stop stop-color="#f2fbfc"/><stop offset="1" stop-color="#a8e8dc"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#4ee2c2" stop-opacity=".28"/><stop offset="1" stop-color="#4ee2c2" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9ee8df" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1000" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1000" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="850" cy="150" r="230" fill="url(#halo)"><animate attributeName="opacity" values=".55;1;.55" dur="8s" repeatCount="indefinite"/></circle>
+  <g transform="translate(820 170)" fill="none" stroke="#89dfd2">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="7s" repeatCount="indefinite"/>
+      <circle r="93" stroke-opacity=".18"/>
+      <ellipse rx="114" ry="42" transform="rotate(-35)" stroke-opacity=".45"/>
+      <path d="M0-55 48-27V28L0 56-48 28V-27Z" fill="#40cdb5" fill-opacity=".1"/>
+      <path d="m-19-10-15 11 15 11m38-22 15 11-15 11m-13-32-12 42" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="94" cy="-37" r="5" fill="#ffb08a" stroke="none"/>
+    </g>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="48" y="57" fill="#8ee1d4" font-size="12" letter-spacing="3.5">SOFTWARE DEVELOPMENT · PRODUCT BUILDING</text>
+    <text x="44" y="145" fill="url(#ink)" font-size="72" font-weight="700" letter-spacing="-2">BAYA</text>
+    <text x="48" y="190" fill="#d4f2ee" font-size="21">Thoughtful web and desktop applications.</text>
+    <path d="M48 222H620" stroke="#40cdb5" stroke-opacity=".35"/>
+    <text x="48" y="263" fill="#a9e7dd" font-size="14" letter-spacing="2">FULL-STACK DEVELOPMENT / PRACTICAL PRODUCTS</text>
+    <rect x="48" y="291" width="178" height="29" rx="14" fill="#40cdb5" fill-opacity=".13" stroke="#40cdb5" stroke-opacity=".4"/>
+    <circle cx="64" cy="305" r="3" fill="#ffb08a"/>
+    <text x="77" y="310" fill="#d4f2ee" font-size="12">@AHMEDBAYA · GITHUB</text>
+  </g>
+</svg>

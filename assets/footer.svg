@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Build useful things. Keep learning.">
+  <title>Build useful things. Keep learning.</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071521"/><stop offset=".6" stop-color="#0b2635"/><stop offset="1" stop-color="#12434a"/></linearGradient>
+    <linearGradient id="wave"><stop stop-color="#40cdb5" stop-opacity=".04"/><stop offset=".5" stop-color="#40cdb5" stop-opacity=".38"/><stop offset="1" stop-color="#ffb08a" stop-opacity=".22"/></linearGradient>
+  </defs>
+  <path d="M0 45Q250 0 500 45T1000 45V150H0Z" fill="url(#wave)">
+    <animate attributeName="d" values="M0 45Q250 0 500 45T1000 45V150H0Z;M0 45Q250 90 500 45T1000 45V150H0Z;M0 45Q250 0 500 45T1000 45V150H0Z" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 65Q250 105 500 65T1000 65V150H0Z" fill="url(#bg)"/>
+  <text x="500" y="121" text-anchor="middle" fill="#a9e7dd" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">BUILD USEFUL THINGS. KEEP LEARNING.</text>
+</svg>

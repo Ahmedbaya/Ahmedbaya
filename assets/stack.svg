@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="144" viewBox="0 0 960 144" role="img" aria-label="Languages and tools">
+  <title>Languages and tools</title>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#e4f3f1">
+    <g><rect x="208" y="8" width="142" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="225" cy="25" r="4" fill="#40cdb5"/><text x="238" y="30">TypeScript</text></g>
+    <g><rect x="366" y="8" width="150" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="383" cy="25" r="4" fill="#ffb08a"/><text x="396" y="30">JavaScript</text></g>
+    <g><rect x="532" y="8" width="85" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="549" cy="25" r="4" fill="#40cdb5"/><text x="562" y="30">C#</text></g>
+    <g><rect x="633" y="8" width="119" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="650" cy="25" r="4" fill="#ffb08a"/><text x="663" y="30">HTML</text></g>
+
+    <g><rect x="148" y="55" width="115" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="165" cy="72" r="4" fill="#40cdb5"/><text x="178" y="77">React</text></g>
+    <g><rect x="279" y="55" width="126" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="296" cy="72" r="4" fill="#ffb08a"/><text x="309" y="77">Next.js</text></g>
+    <g><rect x="421" y="55" width="126" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="438" cy="72" r="4" fill="#40cdb5"/><text x="451" y="77">Tailwind CSS</text></g>
+    <g><rect x="563" y="55" width="118" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="580" cy="72" r="4" fill="#ffb08a"/><text x="593" y="77">Node.js</text></g>
+    <g><rect x="697" y="55" width="116" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="714" cy="72" r="4" fill="#40cdb5"/><text x="727" y="77">Electron</text></g>
+
+    <g><rect x="210" y="102" width="125" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="227" cy="119" r="4" fill="#ffb08a"/><text x="240" y="124">MongoDB</text></g>
+    <g><rect x="353" y="102" width="128" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="370" cy="119" r="4" fill="#40cdb5"/><text x="383" y="124">PostgreSQL</text></g>
+    <g><rect x="499" y="102" width="139" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="516" cy="119" r="4" fill="#ffb08a"/><text x="529" y="124">Socket.IO</text></g>
+    <g><rect x="656" y="102" width="94" height="34" rx="10" fill="#0b1a27" stroke="#2b7880"/><circle cx="673" cy="119" r="4" fill="#40cdb5"/><text x="686" y="124">Git</text></g>
+  </g>
+</svg>

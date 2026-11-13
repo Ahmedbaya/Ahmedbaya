@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" role="img" aria-label="Teal section divider">
+  <title>Teal section divider</title>
+  <defs><linearGradient id="d"><stop stop-color="#40cdb5" stop-opacity="0"/><stop offset=".5" stop-color="#40cdb5" stop-opacity=".7"/><stop offset="1" stop-color="#40cdb5" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 14H1000" stroke="url(#d)"/>
+  <path d="m500 9 5 5-5 5-5-5Z" fill="#40cdb5"/>
+</svg>
